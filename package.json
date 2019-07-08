@@ -1,0 +1,25 @@
+{
+  "name": "lab-05",
+  "version": "1.0.0",
+  "description": "### Linked Lists",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriana-401-advanced-javascript/lab-05.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adriana-401-advanced-javascript/lab-05/issues"
+  },
+  "homepage": "https://github.com/adriana-401-advanced-javascript/lab-05#readme",
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "faker": "^4.1.0",
+    "js": "^0.1.0",
+    "util": "^0.12.1"
+  }
+}
